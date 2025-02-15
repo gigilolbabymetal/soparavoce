@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.303), pink)
+ }
+ main {
+    width: 600px;
+    background-color: rgba(186, 32, 147, 0.6);
+    padding: 10px;
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 15px;
+    
+}
+
